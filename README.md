@@ -31,7 +31,7 @@ y=a
 print("Swapped values are:",n,y)
 ```
 ## OUTPUT
-![output](swapping.png)
+![output](swap.png)
 
 
 ## RESULT:
